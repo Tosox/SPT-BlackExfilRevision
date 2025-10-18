@@ -2,7 +2,7 @@
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("Black Exfil Revision")]
-[assembly: AssemblyDescription("SPT mod that allows faceshields for the Black Exfil helmet")]
+[assembly: AssemblyDescription("SPT mod that allows face shields for the Black Exfil helmet")]
 [assembly: AssemblyCompany("Tosox")]
 [assembly: AssemblyProduct("SPT Mods")]
 [assembly: AssemblyCopyright("Copyright © Tosox 2025")]
