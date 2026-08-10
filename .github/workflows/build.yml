@@ -34,6 +34,6 @@ jobs:
     - name: Archive Build Artifacts
       uses: actions/upload-artifact@v4
       with:
-        name: SPT-FIRFencePurchases
+        name: SPT-BlackExfilRevision
         path: bin/${{ env.BUILD_CONFIGURATION }}/*
         retention-days: 1
