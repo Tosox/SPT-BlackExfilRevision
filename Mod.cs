@@ -57,7 +57,7 @@ namespace Tosox.BlackExfilRevision
             });
             props.Slots = slots;
 
-            logger.Success($"[{ModMetadata.ModName}] Black Exfil can now attach face shields");
+            logger.Info($"[{ModMetadata.ModName}] Black Exfil can now attach face shields");
             return Task.CompletedTask;
         }
     }
